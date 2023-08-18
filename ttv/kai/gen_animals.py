@@ -11,6 +11,6 @@ with open("animals.txt", "rb") as fin:
         line = line.strip()
         if not line:
             continue
-        with open(f"animals/a{count}.txt", "w") as fout:
-            fout.write(str(line))
+        with open(f"animals/a{count}.txt", "wb") as fout:
+            fout.write(line)
         count += 1
