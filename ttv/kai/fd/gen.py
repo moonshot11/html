@@ -26,21 +26,21 @@ def init_data():
 def pick(key):
     return random.choice(words[key])
 
-def gen_file(keys, filename, joiner=' '):
+def gen_file(keys, filename, preamble='', joiner=' '):
     idx = 0
     valid = [words[k] for k in keys]
 
     for items in itertools.product(*valid):
         buf = joiner.join(items)
         with open(f"{filename}{idx}.fd", "w") as fh:
-            fh.write(buf)
+            fh.write(preamble + buf)
         idx += 1
 
     print(f"{filename}: {idx-1}")
 
 if __name__ == "__main__":
     init_data()
-    gen_file( ["app_type", "app_base"], "app" )
-    gen_file( ["main_cook", "main_food"], "mainA" )
-    gen_file( ["main_amt", "main_add"], "mainB", joiner=" of " )
-    gen_file( ["des_flavor", "des_food"], "des" )
+    gen_file( ["app_type", "app_base"], "app", preamble=" prepared a " )
+    gen_file( ["main_cook", "main_food"], "mainA", preamble=", followed by " )
+    gen_file( ["main_amt", "main_add"], "mainB", preamble=" cooked in ", joiner=" of " )
+    gen_file( ["des_flavor", "des_food"], "des", preamble=". Dessert was a " )
