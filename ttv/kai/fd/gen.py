@@ -11,7 +11,7 @@ words = {}
 
 def readfile(filename):
     result = []
-    with open(filename, 'r') as fh:
+    with open(filename, 'rb') as fh:
         result = [line.strip() for line in fh.readlines() if line.strip()]
     return result
 
@@ -31,16 +31,20 @@ def gen_file(keys, filename, preamble='', joiner=' '):
     valid = [words[k] for k in keys]
 
     for items in itertools.product(*valid):
-        buf = joiner.join(items)
-        with open(f"{filename}{idx}.fd", "w") as fh:
-            fh.write(preamble + buf)
+        #buf = bytes(joiner.join(str(items)))
+        buf = bytes(preamble, encoding="utf-8")
+        for item in items:
+            buf += item + bytes(" ", encoding="utf-8")
+        buf = buf[:-1]
+        with open(f"{filename}{idx}.fd", "wb") as fh:
+            fh.write(buf)
         idx += 1
 
     print(f"{filename}: {idx-1}")
 
 if __name__ == "__main__":
     init_data()
-    gen_file( ["app_type", "app_base"], "app", preamble=" prepared a " )
+    gen_file( ["app_type", "app_base"], "app", preamble="prepared a " )
     gen_file( ["main_cook", "main_food"], "mainA", preamble=", followed by " )
-    gen_file( ["main_amt", "main_add"], "mainB", preamble=" cooked in ", joiner=" of " )
-    gen_file( ["des_flavor", "des_food"], "des", preamble=". Dessert was a " )
+    gen_file( ["main_amt", "main_add"], "mainB", preamble="cooked in " )
+    gen_file( ["des_flavor", "des_food"], "des", preamble="Dessert was a " )

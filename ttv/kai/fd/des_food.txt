@@ -1,6 +1,7 @@
-cake
-cookie
-sundae
-pancake
-apple
-breath mint
+cake 🍰
+cookie 🍪
+sundae 🍨
+pancake 🥞
+apple 🍎
+breath mint 🍬
+smoothie 🥤
