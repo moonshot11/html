@@ -28,8 +28,7 @@ def pick(key):
 
 def gen_file(keys, filename, joiner=' '):
     idx = 0
-    valid = [v for k,v in words.items() if k in keys]
-    valid.reverse()
+    valid = [words[k] for k in keys]
     print(valid)
     for items in itertools.product(*valid):
         buf = joiner.join(items)
