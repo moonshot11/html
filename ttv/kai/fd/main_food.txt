@@ -1,0 +1,13 @@
+steak
+chicken
+turkey
+lamb
+spaghetti
+meat loaf
+cod
+lasagna
+eggplant parmesean
+pizza
+burger
+kale
+lobster
