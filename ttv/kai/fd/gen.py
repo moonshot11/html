@@ -9,6 +9,8 @@ import random
 
 AT_BYTE = 64
 POUND_BYTE = 35
+SPACE_BYTE = 32
+UTF = "utf_8_sig"
 
 words = {}
 
@@ -34,7 +36,7 @@ def gen_file(keys, filename, preamble='', emoji_postprocess=False ):
     valid = [words[k] for k in keys]
 
     for items in itertools.product(*valid):
-        buf = bytes(preamble, encoding="utf-8")
+        buf = bytes(preamble, encoding=UTF)
         adj, noun = items
 
         article = ""
@@ -48,9 +50,13 @@ def gen_file(keys, filename, preamble='', emoji_postprocess=False ):
         if adj[0] == POUND_BYTE:
             adj = adj[1:]
         if emoji_postprocess:
-            noun = noun[:-4] + adj[-4:] + noun[-4:]
-            adj = adj[:-4]
-        buf += bytes(article, encoding="utf-8") + adj + noun
+            noun_bd = noun.rfind(SPACE_BYTE) + 1
+            adj_bd = adj.rfind(SPACE_BYTE) + 1
+            noun = noun[:noun_bd] + adj[adj_bd:] + noun[noun_bd:]
+            adj = adj[:adj_bd]
+        else:
+            adj += b" "
+        buf += bytes(article, encoding=UTF) + adj + noun
         with open(f"{filename}{idx}.fd", "wb") as fh:
             fh.write(buf)
         idx += 1
