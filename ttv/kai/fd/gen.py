@@ -7,6 +7,9 @@
 import itertools
 import random
 
+AT_BYTE = 64
+POUND_BYTE = 35
+
 words = {}
 
 def readfile(filename):
@@ -26,16 +29,28 @@ def init_data():
 def pick(key):
     return random.choice(words[key])
 
-def gen_file(keys, filename, preamble='', joiner=' '):
+def gen_file(keys, filename, preamble='', emoji_postprocess=False ):
     idx = 0
     valid = [words[k] for k in keys]
 
     for items in itertools.product(*valid):
-        #buf = bytes(joiner.join(str(items)))
         buf = bytes(preamble, encoding="utf-8")
-        for item in items:
-            buf += item + bytes(" ", encoding="utf-8")
-        buf = buf[:-1]
+        adj, noun = items
+
+        article = ""
+        if noun[0] == AT_BYTE:
+            noun = noun[1:]
+            if adj[0] == POUND_BYTE:
+                adj = adj[1:]
+                article = "an "
+            else:
+                article = "a "
+        if adj[0] == POUND_BYTE:
+            adj = adj[1:]
+        if emoji_postprocess:
+            noun = noun[:-4] + adj[-4:] + noun[-4:]
+            adj = adj[:-4]
+        buf += bytes(article, encoding="utf-8") + adj + noun
         with open(f"{filename}{idx}.fd", "wb") as fh:
             fh.write(buf)
         idx += 1
@@ -44,7 +59,7 @@ def gen_file(keys, filename, preamble='', joiner=' '):
 
 if __name__ == "__main__":
     init_data()
-    gen_file( ["app_type", "app_base"], "app", preamble="prepared " )
+    gen_file( ["app_type", "app_base"], "app", preamble="prepared ", emoji_postprocess=True )
     gen_file( ["main_cook", "main_food"], "mainA", preamble=", followed by " )
     gen_file( ["main_amt", "main_add"], "mainB", preamble="cooked with " )
-    gen_file( ["des_flavor", "des_food"], "des", preamble="Dessert was " )
+    gen_file( ["des_flavor", "des_food"], "des", preamble="and for dessert, ", emoji_postprocess=True )

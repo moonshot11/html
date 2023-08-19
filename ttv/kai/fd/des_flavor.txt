@@ -1,4 +1,4 @@
-infected 🦠
+#infected 🦠
 discount 🏷
 recyclable ♻️
 radioactive ☢️
@@ -20,4 +20,4 @@ pineapple 🍍
 strawberry 🍓
 blueberry 🫐
 magical 🪄
-extraterrestrial 🪐
+#extraterrestrial 🪐

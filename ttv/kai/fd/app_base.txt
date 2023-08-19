@@ -2,12 +2,11 @@ salad 🥗
 fries 🍟
 popcorn 🍿
 soup 🥣
-pretzels 🥨
+@pretzel 🥨
 nachos 🔻
-bagel 🥯
-pizza square 🍕
+@bagel 🥯
+pizza squares 🍕
 wings 🍗
-slider 🍔
-pinwheel 🍥
-charcuterie 🫓
+@slider 🍔
+@charcuterie 🫓
 escargot 🐌
