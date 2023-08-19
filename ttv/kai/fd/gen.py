@@ -68,4 +68,4 @@ if __name__ == "__main__":
     gen_file( ["app_type", "app_base"], "app", preamble="prepared ", emoji_postprocess=True )
     gen_file( ["main_cook", "main_food"], "mainA", preamble="followed by " )
     gen_file( ["main_amt", "main_add"], "mainB", preamble="cooked with " )
-    gen_file( ["des_flavor", "des_food"], "des", preamble="and for dessert, ", emoji_postprocess=True )
+    gen_file( ["des_flavor", "des_food"], "des", preamble="Dessert was ", emoji_postprocess=True )
