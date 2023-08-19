@@ -1,9 +1,23 @@
-chocolate 🍫
+infected 🦠
+discount 🏷
+recyclable ♻️
+radioactive ☢️
+meager ☹️
+melted 🫠
+sad 😢
+flaming 🔥
+volatile 🧨
+chocolate 🟫
 vanilla 🍦
 mango 🥭
 cherry 🍒
-plastic
-meager
-melted 🫠
-flaming 🔥
-sad 😢
+plastic 🧩
+kiwi 🥝
+coconut 🥥
+grape 🍇
+banana 🍌
+pineapple 🍍
+strawberry 🍓
+blueberry 🫐
+magical 🪄
+extraterrestrial 🪐

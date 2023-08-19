@@ -44,7 +44,7 @@ def gen_file(keys, filename, preamble='', joiner=' '):
 
 if __name__ == "__main__":
     init_data()
-    gen_file( ["app_type", "app_base"], "app", preamble="prepared a " )
+    gen_file( ["app_type", "app_base"], "app", preamble="prepared " )
     gen_file( ["main_cook", "main_food"], "mainA", preamble=", followed by " )
-    gen_file( ["main_amt", "main_add"], "mainB", preamble="cooked in " )
-    gen_file( ["des_flavor", "des_food"], "des", preamble="Dessert was a " )
+    gen_file( ["main_amt", "main_add"], "mainB", preamble="cooked with " )
+    gen_file( ["des_flavor", "des_food"], "des", preamble="Dessert was " )

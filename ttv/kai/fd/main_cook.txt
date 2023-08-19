@@ -1,14 +1,18 @@
-roasted
-baked
+canned
+raw
+gently caressed
 microwaved
-toasted
+baked
+boiled
 diced
+roasted
+smoked
+toasted
 julienned
 diced
-raw
 minced
 strained
 peeled
 sliced
-boiled
-gently caressed
+braised
+flambéd

@@ -1,3 +1,8 @@
+infected 🦠
+discount 🏷
+recyclable ♻️
+radioactive ☢️
+egg 🥚
 cheese 🧀
 crouton 🍞
 veggie 🥒
@@ -9,3 +14,7 @@ yogurt 🍮
 mandarin 🍊
 lime 🍈
 lemon 🍋
+mushroom 🍄
+tomato 🍅
+onion 🧅
+moon cheese 🌙
