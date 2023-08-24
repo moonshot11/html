@@ -6,7 +6,7 @@ radioactive ☢️
 cheese 🧀
 crouton 🍞
 veggie 🥒
-fruit🍉
+fruit 🍉
 potato 🥔
 pepper 🫑
 fish 🐟
@@ -17,4 +17,4 @@ lemon 🍋
 mushroom 🍄
 tomato 🍅
 #onion 🧅
-moon cheese 🌙
+salted 🧂
