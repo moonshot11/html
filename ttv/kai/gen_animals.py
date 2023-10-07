@@ -2,19 +2,21 @@
 
 import sys
 
-#
-# gen_animals.py
-#
+if len(sys.argv) >= 2:
+    bases = [ sys.argv[1] ]
+else:
+    bases = [ "animals", "spoopy" ]
 
-count = 0
-filename = sys.argv[1] if len(sys.argv) >= 2 else "animals.txt"
-destpath = sys.argv[2] if len(sys.argv) >= 3 else "animals"
 
-with open(filename, "rb") as fin:
-    for line in fin.readlines():
-        line = line.strip()
-        if not line:
-            continue
-        with open(f"{destpath}/a{count}.txt", "wb") as fout:
-            fout.write(line)
-        count += 1
+for base in bases:
+    print(f"Generating {base}...")
+    filename = base + ".txt"
+    with open(filename, "rb") as fin:
+        count = 0
+        for line in fin.readlines():
+            line = line.strip()
+            if not line:
+                continue
+            with open(f"{base}/a{count}.txt", "wb") as fout:
+                fout.write(line)
+            count += 1
