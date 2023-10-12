@@ -5,7 +5,7 @@ import sys
 if len(sys.argv) >= 2:
     bases = [ sys.argv[1] ]
 else:
-    bases = [ "animals", "spooky" ]
+    bases = [ "animals", "spooky", "askluna" ]
 
 
 for base in bases:
