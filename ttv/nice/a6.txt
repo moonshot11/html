@@ -1,1 +1,1 @@
-Kind, patient, and watching ${channel}. You're clearly a good person!
+Kind, patient, and watching ${channel}. You're clearly a good person! :slight_smile:
