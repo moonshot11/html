@@ -8,9 +8,9 @@ else:
     bases = [ "animals", "spooky", "askcat", "xmas", "nice_kai", "onetime", "boujie", "ban" ]
 
 
-for base in bases:
+for base in sorted(bases):
     print(f"Generating {base}...")
-    filename = base + ".txt"
+    filename = f"base/{base}.txt"
     with open(filename, "rb") as fin:
         count = 0
         for line in fin.readlines():
