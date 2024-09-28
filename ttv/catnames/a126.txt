@@ -1,1 +1,1 @@
-named Kirby
+cat named Kirby

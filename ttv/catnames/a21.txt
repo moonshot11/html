@@ -1,1 +1,1 @@
-named Beauty
+cat named Beauty

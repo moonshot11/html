@@ -1,1 +1,1 @@
-named Friday
+cat named Friday

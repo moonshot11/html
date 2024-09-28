@@ -1,1 +1,1 @@
-named Buddy
+cat named Buddy

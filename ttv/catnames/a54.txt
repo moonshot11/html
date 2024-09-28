@@ -1,1 +1,1 @@
-named Cleopatra
+cat named Cleopatra

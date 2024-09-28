@@ -1,1 +1,1 @@
-named Sprite
+cat named Sprite

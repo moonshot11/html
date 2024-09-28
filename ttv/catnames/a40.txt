@@ -1,1 +1,1 @@
-named Canada
+cat named Canada

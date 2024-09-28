@@ -1,1 +1,1 @@
-named Goose
+cat named Goose

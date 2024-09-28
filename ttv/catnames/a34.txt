@@ -1,1 +1,1 @@
-named Bruce
+cat named Bruce

@@ -1,1 +1,1 @@
-named Dinah
+cat named Dinah

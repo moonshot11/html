@@ -1,1 +1,1 @@
-named Mary
+cat named Mary

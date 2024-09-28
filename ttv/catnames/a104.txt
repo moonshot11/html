@@ -1,1 +1,1 @@
-named Hello Kitty
+cat named Hello Kitty

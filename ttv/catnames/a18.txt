@@ -1,1 +1,1 @@
-named Barney
+cat named Barney

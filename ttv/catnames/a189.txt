@@ -1,1 +1,1 @@
-named Prince
+cat named Prince

@@ -1,1 +1,1 @@
-named Alaska
+cat named Alaska
