@@ -1,4 +1,4 @@
-- oh no, they haven't found any cats yet! They can check the CDS for a cat every 30 minutes
+- oh no, they haven't found any cats yet! They can check for a cat every 30 minutes
 cat named Aaliyah
 cat named Abby
 cat named Alaska
@@ -249,5 +249,3 @@ cat named Wonder Woman
 cat named Yoshi
 cat named Zeus
 cat named Zoey
-cat named 
-cat 
