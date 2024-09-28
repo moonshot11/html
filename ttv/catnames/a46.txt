@@ -1,1 +1,1 @@
-Cat
+named Cat

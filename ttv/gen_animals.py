@@ -18,6 +18,8 @@ for base in sorted(bases):
             line = line.strip()
             if not line:
                 continue
+            if str(line)[2:-1] == "--EMPTY--":
+                line = b""
             with open(f"{base}/a{count}.txt", "wb") as fout:
                 fout.write(line)
             count += 1
