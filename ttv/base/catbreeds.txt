@@ -1,0 +1,45 @@
+ruddy Abyssinian
+sorrel Abyssinian
+blue Abyssinian
+seal Ragdoll
+chocolate Ragdoll
+lilac Ragdoll
+cream Ragdoll
+white Persian
+black Persian
+cream Persian
+tabby Persian
+seal Siamese
+chocolate Siamese
+blue Siamese
+lilac Siamese
+brown Bengal
+silver Bengal
+red tabby
+orange tabby
+gray tabby
+brown tabby
+black tabby
+white tabby
+cream tabby
+black tuxedo
+black
+calico
+dilute calico
+tortieshell
+black Sphinx
+grey Sphinx
+white Sphinx
+cream Sphinx
+white Maine Coon
+black Maine Coon
+orange Maine Coon
+grey Maine Coon
+grey British Shorthair
+lilac British Shorthair
+black British Shorthair
+white Ragamuffin
+cream Ragamuffin
+red Somali
+orange Somali
+spotted Egyptian Mau
