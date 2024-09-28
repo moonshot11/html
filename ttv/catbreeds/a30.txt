@@ -1,1 +1,1 @@
-grey Sphinx
+black Sphinx
