@@ -1,4 +1,4 @@
-- oh no, they haven't found any cats yet! They can use the !checkcds command to check for a cat every 20 minutes
+- oh no, they haven't found any cats yet! They can use the "!newcat" command to check the cat distribution system!
 cat named Aaliyah
 cat named Abby
 cat named Alaska
