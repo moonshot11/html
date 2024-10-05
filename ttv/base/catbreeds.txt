@@ -2,15 +2,15 @@
 ruddy Abyssinian
 sorrel Abyssinian
 blue Abyssinian
-seal Ragdoll
+seal-colored Ragdoll
 chocolate Ragdoll
 lilac Ragdoll
-cream Ragdoll
+cream-colored Ragdoll
 white Persian
 black Persian
-cream Persian
+cream-colored Persian
 tabby Persian
-seal Siamese
+seal-colored Siamese
 chocolate Siamese
 blue Siamese
 lilac Siamese
@@ -31,7 +31,7 @@ tortieshell
 black Sphinx
 grey Sphinx
 white Sphinx
-cream Sphinx
+cream-colored Sphinx
 white Maine Coon
 black Maine Coon
 orange Maine Coon
@@ -40,7 +40,7 @@ grey British Shorthair
 lilac British Shorthair
 black British Shorthair
 white Ragamuffin
-cream Ragamuffin
+cream-colored Ragamuffin
 red Somali
 orange Somali
 spotted Egyptian Mau
