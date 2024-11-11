@@ -1,0 +1,1 @@
+- oh no, they haven't found any dogs yet! They can use the "!newdog" command to check for new dogs!

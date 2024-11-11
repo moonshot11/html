@@ -1,4 +1,4 @@
-- oh no, they haven't found any cats yet! They can use the "!newcat" command to check for new cats!
+--EMPTY--
 named Aaliyah
 named Abby
 named Alaska
