@@ -1,1 +1,1 @@
-cat named Zoey
+named Zoey

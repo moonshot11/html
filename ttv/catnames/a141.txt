@@ -1,1 +1,1 @@
-cat named Mango
+named Mango

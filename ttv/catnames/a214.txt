@@ -1,1 +1,1 @@
-cat named Shoelace
+named Shoelace

@@ -1,1 +1,1 @@
-cat named Cider
+named Cider

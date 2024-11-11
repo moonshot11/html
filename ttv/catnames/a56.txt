@@ -1,1 +1,1 @@
-cat named Cookie
+named Cookie

@@ -1,1 +1,1 @@
-cat named Dolla
+named Dolla

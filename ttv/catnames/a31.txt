@@ -1,1 +1,1 @@
-cat named Boston
+named Boston

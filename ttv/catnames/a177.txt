@@ -1,1 +1,1 @@
-cat named Penny
+named Penny

@@ -1,1 +1,1 @@
-cat named Stormy
+named Stormy

@@ -1,1 +1,1 @@
-cat named Max
+named Max

@@ -1,1 +1,1 @@
-cat named Misha
+named Misha

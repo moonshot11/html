@@ -1,1 +1,1 @@
-cat named Sneakers
+named Sneakers

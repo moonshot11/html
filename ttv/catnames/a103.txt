@@ -1,1 +1,1 @@
-cat named Hartley
+named Hartley

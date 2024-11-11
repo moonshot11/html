@@ -1,1 +1,1 @@
-cat named Muffin
+named Muffin

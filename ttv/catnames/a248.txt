@@ -1,1 +1,1 @@
-cat named Yoshi
+named Yoshi

@@ -1,1 +1,1 @@
-cat named Maraca
+named Maraca

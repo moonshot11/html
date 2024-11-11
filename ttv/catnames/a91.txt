@@ -1,1 +1,1 @@
-cat named Gizmo
+named Gizmo

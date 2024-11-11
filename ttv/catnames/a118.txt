@@ -1,1 +1,1 @@
-cat named Jenny
+named Jenny

@@ -1,1 +1,1 @@
-cat named Pickle
+named Pickle

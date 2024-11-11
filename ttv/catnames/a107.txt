@@ -1,1 +1,1 @@
-cat named Hermione
+named Hermione

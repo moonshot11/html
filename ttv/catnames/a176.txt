@@ -1,1 +1,1 @@
-cat named Peanut
+named Peanut

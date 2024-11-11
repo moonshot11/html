@@ -1,1 +1,1 @@
-cat named Teddy
+named Teddy

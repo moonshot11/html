@@ -1,1 +1,1 @@
-cat named Patty
+named Patty

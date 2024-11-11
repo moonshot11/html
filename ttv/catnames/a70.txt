@@ -1,1 +1,1 @@
-cat named Domino
+named Domino

@@ -1,1 +1,1 @@
-cat named Chips
+named Chips

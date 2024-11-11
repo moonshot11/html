@@ -1,1 +1,1 @@
-cat named Lisa
+named Lisa

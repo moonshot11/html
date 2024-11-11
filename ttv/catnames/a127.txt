@@ -1,1 +1,1 @@
-cat named Kitty
+named Kitty

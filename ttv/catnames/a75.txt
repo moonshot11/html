@@ -1,1 +1,1 @@
-cat named Elvis
+named Elvis

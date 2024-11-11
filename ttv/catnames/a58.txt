@@ -1,1 +1,1 @@
-cat named Cowboy
+named Cowboy

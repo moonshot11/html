@@ -1,1 +1,1 @@
-cat named Sky
+named Sky

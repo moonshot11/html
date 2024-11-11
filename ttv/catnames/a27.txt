@@ -1,1 +1,1 @@
-cat named Bolt
+named Bolt

@@ -1,1 +1,1 @@
-cat named Detective Cat
+named Detective Cat

@@ -1,1 +1,1 @@
-cat named Watson
+named Watson

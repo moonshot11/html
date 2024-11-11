@@ -1,1 +1,1 @@
-cat named Rey
+named Rey

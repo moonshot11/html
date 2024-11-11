@@ -1,1 +1,1 @@
-cat named Hank
+named Hank

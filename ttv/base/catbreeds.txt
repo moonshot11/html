@@ -16,17 +16,17 @@ blue Siamese
 lilac Siamese
 brown Bengal
 silver Bengal
-red tabby
-orange tabby
-gray tabby
-brown tabby
-black tabby
-white tabby
-cream tabby
-black tuxedo
-black
-calico
-dilute calico
+red tabby cat
+orange tabby cat
+gray tabby cat
+brown tabby cat
+black tabby cat
+white tabby cat
+cream tabby cat
+black tuxedo cat
+black cat
+calico cat
+dilute calico cat
 tortieshell
 black Sphinx
 grey Sphinx

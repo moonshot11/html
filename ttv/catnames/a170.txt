@@ -1,1 +1,1 @@
-cat named Olive
+named Olive

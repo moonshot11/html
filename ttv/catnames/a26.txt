@@ -1,1 +1,1 @@
-cat named Biscuit
+named Biscuit

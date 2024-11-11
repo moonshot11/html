@@ -1,251 +1,251 @@
-- oh no, they haven't found any cats yet! They can use the "!newcat" command to check the cat distribution system!
-cat named Aaliyah
-cat named Abby
-cat named Alaska
-cat named Alexa
-cat named Angel
-cat named Annabelle
-cat named Archer
-cat named Archie
-cat named Ariana
-cat named Ariel
-cat named Arlene
-cat named Ash
-cat named Atari
-cat named Baby
-cat named Bailey
-cat named Barbeque
-cat named Barbie
-cat named Barney
-cat named Bastet
-cat named Batman
-cat named Beauty
-cat named Bella
-cat named Belle
-cat named Beyonce
-cat named Big Ben
-cat named Biscuit
-cat named Bolt
-cat named Boo
-cat named Boo Boo
-cat named Boots
-cat named Boston
-cat named Bowie
-cat named Breadstick
-cat named Bruce
-cat named Bubbi
-cat named Buddy
-cat named Burrito
-cat named Cage
-cat named Callie
-cat named Canada
-cat named Captain Jack Sparrow
-cat named Caramel
-cat named Casanova
-cat named Casper
-cat named Cassian
-cat named Cat
-cat named Cece
-cat named Chase
-cat named Cheddar
-cat named Chief
-cat named Chips
-cat named Cider
-cat named Clara
-cat named Cleopatra
-cat named Cocoa
-cat named Cookie
-cat named Cosmo
-cat named Cowboy
-cat named Creak
-cat named Cricket
-cat named Crookshanks
-cat named Cutie
-cat named Daisy
-cat named Denali
-cat named Denzel
-cat named Detective Cat
-cat named Dinah
-cat named Dixie
-cat named Dolla
-cat named Domino
-cat named El Diablo
-cat named El Tigre
-cat named Elsa
-cat named Elton
-cat named Elvis
-cat named Evie
-cat named Faith
-cat named Falafel
-cat named Fatbutt
-cat named Felix
-cat named Foster
-cat named Franklin
-cat named Freddie
-cat named Friday
-cat named Frodo
-cat named Fuzzy Wuzzy
-cat named Garfield
-cat named Gatito
-cat named Genie
-cat named Girlie
-cat named Gizmo
-cat named Gong Li
-cat named Goose
-cat named Gravity
-cat named Grayson
-cat named Hallie
-cat named Hank
-cat named Hannah Montana
-cat named Happy
-cat named Harley
-cat named Harmony
-cat named Harry
-cat named Hartley
-cat named Hello Kitty
-cat named Her Majesty
-cat named Hercules
-cat named Hermione
-cat named Honey
-cat named Hope
-cat named Houdini
-cat named Jack Meower
-cat named Jackie Chan
-cat named Jamal
-cat named James Pawnd
-cat named Jasmine
-cat named Jean Grey
-cat named Jelly Bean
-cat named Jenny
-cat named Jinx
-cat named Joffrey
-cat named John Lick
-cat named Joy
-cat named Kaijah
-cat named Kia
-cat named King
-cat named Kirby
-cat named Kitty
-cat named Lady
-cat named Laila
-cat named Lewis Hamilton
-cat named Licks
-cat named Lilith
-cat named Lily
-cat named Lisa
-cat named Loki
-cat named Love
-cat named Luke Skypawker
-cat named Luna
-cat named Mable
-cat named Mama
-cat named Mango
-cat named Maple
-cat named Maraca
-cat named Mark Twain
-cat named Mars
-cat named Mary
-cat named Mary Pawpins
-cat named Master Chief
-cat named Master Queef
-cat named Mau
-cat named Maverick
-cat named Max
-cat named Mayor Stubbs
-cat named Melody
-cat named Mia
-cat named Misha
-cat named Missy
-cat named Mittens
-cat named Mochi
-cat named Monique
-cat named Mr. Bigglesworth
-cat named Muffin
-cat named Nala
-cat named Nelly Furrtado
-cat named Neo
-cat named Nermal
-cat named Nibbles
-cat named Nora
-cat named Nyan
-cat named Olive
-cat named Oreo
-cat named Paddles
-cat named Padmé
-cat named Pancake
-cat named Patty
-cat named Peanut
-cat named Penny
-cat named Pepper
-cat named Perry
-cat named Peso
-cat named Petpet
-cat named Pharaoh
-cat named Phoebe
-cat named Pickle
-cat named Pilot
-cat named Pluto
-cat named Poe
-cat named Pop
-cat named Prince
-cat named Princess
-cat named Pumpkin
-cat named Purrberus
-cat named Purrcedes
-cat named Purrlock Holmes
-cat named Queen Elizabeth II
-cat named Rainbow
-cat named Raisin
-cat named Raja
-cat named Ramses
-cat named Rey
-cat named Rupert
-cat named Sabrina
-cat named Sahara
-cat named Sailor
-cat named Sailor Moon
-cat named Salem
-cat named Sallie
-cat named Salsa
-cat named Scaredy
-cat named Scarlett
-cat named Señor
-cat named Señorita
-cat named Shadow
-cat named Shoelace
-cat named Simba
-cat named Sky
-cat named Sneakers
-cat named Snickers
-cat named Socks
-cat named Sonic
-cat named Sprite
-cat named Squeaks
-cat named Squishy
-cat named Sticks
-cat named Stormy
-cat named Sundae
-cat named Sunny
-cat named Sylvester
-cat named Tabs
-cat named Taco
-cat named Teddy
-cat named The Pawlice
-cat named Tinkerbell
-cat named Tootsie
-cat named Tortilla
-cat named Tulip
-cat named Tux
-cat named Tuxedo Stan
-cat named Venus
-cat named Victoria
-cat named Watson
-cat named Whitney
-cat named Willa
-cat named Willow
-cat named Wink
-cat named Winston
-cat named Wonder Woman
-cat named Yoshi
-cat named Zeus
-cat named Zoey
+- oh no, they haven't found any cats yet! They can use the "!newcat" command to check for new cats!
+named Aaliyah
+named Abby
+named Alaska
+named Alexa
+named Angel
+named Annabelle
+named Archer
+named Archie
+named Ariana
+named Ariel
+named Arlene
+named Ash
+named Atari
+named Baby
+named Bailey
+named Barbeque
+named Barbie
+named Barney
+named Bastet
+named Batman
+named Beauty
+named Bella
+named Belle
+named Beyonce
+named Big Ben
+named Biscuit
+named Bolt
+named Boo
+named Boo Boo
+named Boots
+named Boston
+named Bowie
+named Breadstick
+named Bruce
+named Bubbi
+named Buddy
+named Burrito
+named Cage
+named Callie
+named Canada
+named Captain Jack Sparrow
+named Caramel
+named Casanova
+named Casper
+named Cassian
+named Cat
+named Cece
+named Chase
+named Cheddar
+named Chief
+named Chips
+named Cider
+named Clara
+named Cleopatra
+named Cocoa
+named Cookie
+named Cosmo
+named Cowboy
+named Creak
+named Cricket
+named Crookshanks
+named Cutie
+named Daisy
+named Denali
+named Denzel
+named Detective Cat
+named Dinah
+named Dixie
+named Dolla
+named Domino
+named El Diablo
+named El Tigre
+named Elsa
+named Elton
+named Elvis
+named Evie
+named Faith
+named Falafel
+named Fatbutt
+named Felix
+named Foster
+named Franklin
+named Freddie
+named Friday
+named Frodo
+named Fuzzy Wuzzy
+named Garfield
+named Gatito
+named Genie
+named Girlie
+named Gizmo
+named Gong Li
+named Goose
+named Gravity
+named Grayson
+named Hallie
+named Hank
+named Hannah Montana
+named Happy
+named Harley
+named Harmony
+named Harry
+named Hartley
+named Hello Kitty
+named Her Majesty
+named Hercules
+named Hermione
+named Honey
+named Hope
+named Houdini
+named Jack Meower
+named Jackie Chan
+named Jamal
+named James Pawnd
+named Jasmine
+named Jean Grey
+named Jelly Bean
+named Jenny
+named Jinx
+named Joffrey
+named John Lick
+named Joy
+named Kaijah
+named Kia
+named King
+named Kirby
+named Kitty
+named Lady
+named Laila
+named Lewis Hamilton
+named Licks
+named Lilith
+named Lily
+named Lisa
+named Loki
+named Love
+named Luke Skypawker
+named Luna
+named Mable
+named Mama
+named Mango
+named Maple
+named Maraca
+named Mark Twain
+named Mars
+named Mary
+named Mary Pawpins
+named Master Chief
+named Master Queef
+named Mau
+named Maverick
+named Max
+named Mayor Stubbs
+named Melody
+named Mia
+named Misha
+named Missy
+named Mittens
+named Mochi
+named Monique
+named Mr. Bigglesworth
+named Muffin
+named Nala
+named Nelly Furrtado
+named Neo
+named Nermal
+named Nibbles
+named Nora
+named Nyan
+named Olive
+named Oreo
+named Paddles
+named Padmé
+named Pancake
+named Patty
+named Peanut
+named Penny
+named Pepper
+named Perry
+named Peso
+named Petpet
+named Pharaoh
+named Phoebe
+named Pickle
+named Pilot
+named Pluto
+named Poe
+named Pop
+named Prince
+named Princess
+named Pumpkin
+named Purrberus
+named Purrcedes
+named Purrlock Holmes
+named Queen Elizabeth II
+named Rainbow
+named Raisin
+named Raja
+named Ramses
+named Rey
+named Rupert
+named Sabrina
+named Sahara
+named Sailor
+named Sailor Moon
+named Salem
+named Sallie
+named Salsa
+named Scaredy
+named Scarlett
+named Señor
+named Señorita
+named Shadow
+named Shoelace
+named Simba
+named Sky
+named Sneakers
+named Snickers
+named Socks
+named Sonic
+named Sprite
+named Squeaks
+named Squishy
+named Sticks
+named Stormy
+named Sundae
+named Sunny
+named Sylvester
+named Tabs
+named Taco
+named Teddy
+named The Pawlice
+named Tinkerbell
+named Tootsie
+named Tortilla
+named Tulip
+named Tux
+named Tuxedo Stan
+named Venus
+named Victoria
+named Watson
+named Whitney
+named Willa
+named Willow
+named Wink
+named Winston
+named Wonder Woman
+named Yoshi
+named Zeus
+named Zoey

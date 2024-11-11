@@ -1,1 +1,1 @@
-cat named Winston
+named Winston

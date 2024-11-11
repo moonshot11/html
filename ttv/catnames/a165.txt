@@ -1,1 +1,1 @@
-cat named Neo
+named Neo

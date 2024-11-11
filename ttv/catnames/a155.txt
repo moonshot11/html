@@ -1,1 +1,1 @@
-cat named Mia
+named Mia

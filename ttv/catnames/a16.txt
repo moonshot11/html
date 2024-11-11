@@ -1,1 +1,1 @@
-cat named Barbeque
+named Barbeque

@@ -1,1 +1,1 @@
-cat named Zeus
+named Zeus

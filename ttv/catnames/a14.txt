@@ -1,1 +1,1 @@
-cat named Baby
+named Baby

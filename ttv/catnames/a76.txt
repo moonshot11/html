@@ -1,1 +1,1 @@
-cat named Evie
+named Evie

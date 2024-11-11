@@ -1,1 +1,1 @@
-cat named Simba
+named Simba

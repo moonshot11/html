@@ -1,1 +1,1 @@
-cat named Elsa
+named Elsa

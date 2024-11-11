@@ -1,1 +1,1 @@
-cat named Sailor
+named Sailor

@@ -1,1 +1,1 @@
-cat named Abby
+named Abby

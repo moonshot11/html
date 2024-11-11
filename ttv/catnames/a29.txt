@@ -1,1 +1,1 @@
-cat named Boo Boo
+named Boo Boo

@@ -1,1 +1,1 @@
-cat named Licks
+named Licks

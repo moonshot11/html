@@ -1,1 +1,1 @@
-cat named Burrito
+named Burrito

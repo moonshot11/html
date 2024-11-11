@@ -1,1 +1,1 @@
-cat named King
+named King

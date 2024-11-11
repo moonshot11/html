@@ -1,1 +1,1 @@
-cat named Atari
+named Atari

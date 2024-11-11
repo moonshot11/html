@@ -1,1 +1,1 @@
-cat named Cricket
+named Cricket

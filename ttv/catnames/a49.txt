@@ -1,1 +1,1 @@
-cat named Cheddar
+named Cheddar

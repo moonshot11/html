@@ -1,1 +1,1 @@
-cat named Denali
+named Denali

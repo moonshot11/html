@@ -1,1 +1,1 @@
-cat named Wink
+named Wink

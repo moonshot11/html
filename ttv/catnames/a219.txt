@@ -1,1 +1,1 @@
-cat named Socks
+named Socks

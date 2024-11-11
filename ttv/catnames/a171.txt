@@ -1,1 +1,1 @@
-cat named Oreo
+named Oreo

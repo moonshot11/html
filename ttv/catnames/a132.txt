@@ -1,1 +1,1 @@
-cat named Lilith
+named Lilith

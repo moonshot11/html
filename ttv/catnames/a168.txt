@@ -1,1 +1,1 @@
-cat named Nora
+named Nora

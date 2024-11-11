@@ -1,1 +1,1 @@
-cat named Lady
+named Lady

@@ -1,1 +1,1 @@
-cat named Harmony
+named Harmony

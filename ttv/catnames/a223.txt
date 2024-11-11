@@ -1,1 +1,1 @@
-cat named Squishy
+named Squishy

@@ -1,1 +1,1 @@
-cat named Chief
+named Chief

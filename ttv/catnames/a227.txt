@@ -1,1 +1,1 @@
-cat named Sunny
+named Sunny

@@ -1,1 +1,1 @@
-cat named Taco
+named Taco

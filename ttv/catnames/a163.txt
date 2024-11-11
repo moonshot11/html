@@ -1,1 +1,1 @@
-cat named Nala
+named Nala

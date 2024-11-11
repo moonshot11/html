@@ -1,1 +1,1 @@
-cat named Salsa
+named Salsa

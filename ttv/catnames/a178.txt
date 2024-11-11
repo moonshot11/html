@@ -1,1 +1,1 @@
-cat named Pepper
+named Pepper

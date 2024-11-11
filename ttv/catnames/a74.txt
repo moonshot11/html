@@ -1,1 +1,1 @@
-cat named Elton
+named Elton

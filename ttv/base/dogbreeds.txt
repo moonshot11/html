@@ -1,0 +1,35 @@
+--EMPTY--
+Golden Retriever
+Black Lab
+Yellow Lab
+Border Collie
+Shiba Inu
+Shih Tzu
+Poodle
+Doberman
+Bloodhound
+Mutt
+Cocker Spaniel
+Boston Terrier
+Mastiff
+Bulldog
+French Bulldog
+Siberian Husky
+Beagle
+Alaskan Malamute
+Australian Shephard
+Chihuahua
+Dachshund
+Rottweiler
+Maltese
+Maltipoo
+Goldendoodle
+Great Dane
+Yorkshire Terrier
+Pomeranian
+Basset Hound
+St. Bernard
+Cavapoo
+Cockapoo
+Labradoodle
+Yorkiepoo

@@ -1,1 +1,1 @@
-cat named Gravity
+named Gravity

@@ -1,1 +1,1 @@
-cat named Mars
+named Mars

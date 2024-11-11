@@ -1,1 +1,1 @@
-cat named Hercules
+named Hercules

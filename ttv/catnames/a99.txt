@@ -1,1 +1,1 @@
-cat named Happy
+named Happy

@@ -1,1 +1,1 @@
-cat named Sticks
+named Sticks
