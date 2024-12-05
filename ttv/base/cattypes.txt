@@ -1,4 +1,5 @@
 --EMPTY--
+a purring
 a beautiful
 a chaotic
 a curious
@@ -8,7 +9,6 @@ a gentle
 a goofy
 a newborn
 a playful
-a purring
 a quiet
 a rambunctious
 a sassy
